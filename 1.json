@@ -1,0 +1,33 @@
+{
+    "Biodata":{
+        "Name":"Riska Wahyu Kurniawan",
+        "Age":25,
+    },
+        "Address":{
+            "dusun":"ponjen",
+            "RT":"005","RW":"022",
+            "desa":"kencong",
+            "kecamatan":"kencong",
+            "kabupaten":"jember",
+            "Provinsi":"jawa_timur"
+            },
+        "hobbies":[
+            "Travelling",
+            "Networking",
+            "Surfing"
+        ],
+        "is_married":false,
+        "list_school":{
+            "SD":"SDN 5 KENCONG","year_in":"2000","year_out":"2006",
+            "SMP":"SMPN 1 KENCONG","year_in":"2006","year_out":"2009",
+            "SMA":"SMAN 1 KENCONG","year_in":"2009","year_out":"2012",
+            "UNIVERSITY":"null"
+        },
+        "skills":[
+            "Teknisi Komputer"{"level":"advaced"},
+            "Networking",{"level":"advanced"},
+            "coding",{"level":"beginner"},
+        ],
+        "interest_in_coding":true,
+    
+}
